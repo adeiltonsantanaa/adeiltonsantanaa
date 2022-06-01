@@ -4,7 +4,7 @@ Hi 👋 My name is Adeilton Santana Aguiar Filho
 Web Developer
 -------------
 
-Atualmente cursando o 3° semestre de ADS, focado nas seguintes tecnologias: JAVA, ANGULAR e banco de dados POSTGRESQL e MYSQL.
+Atualmente cursando o 3° semestre de ADS, focado nas seguintes tecnologias: JAVA, ANGULAR e banco de dados POSTGRESQL e MYSQL :)
 
 * 🌍  I'm based in Brasil
 * 🖥️  See my portfolio at [Meu site](http://vercel.com/adeiltonsantanaa/site-adeilton-santana)
