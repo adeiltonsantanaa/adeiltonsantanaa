@@ -1,4 +1,4 @@
-Hi 👋 My name is Adeilton Santana Aguiar Filho
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=0891B2&multiline=true&width=800&height=90&lines=Hi+%F0%9F%91%8B+My+name+is+Adeilton+Santana)
 ==============================================
 
 
