@@ -40,6 +40,6 @@ Atualmente cursando o 3° semestre de ADS, focado nas seguintes tecnologias: JAV
 <a href="https://github.com/adeiltonsantanaa" align="left"><img height="211px" widht="242px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeiltonsantanaa&layout=demo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&hide=html,css" alt="Top Languages" /></a>
 
 
-<a href="http://www.github.com/adeiltonsantanaa"><img widht="793px" src="https://activity-graph.herokuapp.com/graph?username=adeiltonsantanaa&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--<a href="http://www.github.com/adeiltonsantanaa"><img widht="793px" src="https://activity-graph.herokuapp.com/graph?username=adeiltonsantanaa&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
 
 
