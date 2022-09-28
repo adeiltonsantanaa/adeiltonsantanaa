@@ -1,11 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=0891B2&multiline=true&width=800&height=90&lines=Hi+%F0%9F%91%8B+My+name+is+Adeilton+Santana)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=0891B2&multiline=true&width=800&height=90&lines=Hi+%F0%9F%91%8B+this+is+my+GitHub+)
 ==============================================
 
 
 Atualmente cursando o 3° semestre de ADS, focado nas seguintes tecnologias: JAVA, ANGULAR e banco de dados POSTGRESQL e MYSQL :)
 
 * 🌍  I'm based in Brasil
-* 🖥️  See my Site at: [Meu site](http://vercel.com/adeiltonsantanaa/site-adeilton-santana)
+* 🖥️  See my Site at: [My site](http://vercel.com/adeiltonsantanaa/site-adeilton-santana)
 * ✉️  You can contact me at: [filhoaguiar20@gmail.com](mailto:filhoaguiar20@gmail.com)
 * 🚀  My last job was: [This](http://mob-mentorias.vercel.app/)
 
