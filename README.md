@@ -33,7 +33,7 @@
 
 <div style="display: flex">
 <a style="padding-right: 32px" href="http://www.github.com/adeiltonsantanaa"><img height="50%" width="80%" src="https://github-readme-stats.vercel.app/api?username=adeiltonsantanaa&show_icons=true&&hide=stars,issues&title_color=ffffff&text_color=14b8a6&icon_color=3382ed&bg_color=000000&hide_border=false" alt="adeiltonsantanaa's GitHub stats" /></a>
-<a href="https://github.com/adeiltonsantanaa" align="left"><img height="50%" width="28.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeiltonsantanaa&langs_count=10&&title_color=ffffff&text_color=14b8a6&icon_color=3382ed&bg_color=000000&hide_border=false&locale=en&custom_title=Top%20%Languages&hide=html,css" alt="Top Languages" /></a>
+<a href="https://github.com/adeiltonsantanaa" align="left"><img height="50%" width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeiltonsantanaa&langs_count=10&&title_color=ffffff&text_color=14b8a6&icon_color=3382ed&bg_color=000000&hide_border=false&locale=en&custom_title=Top%20%Languages&hide=html,css" alt="Top Languages" /></a>
 </div>
 
 
