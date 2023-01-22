@@ -31,10 +31,12 @@
 
 <b>My GitHub Stats</b>
 
+<div style="display: flex">
+<a style="padding-right: 32px" href="http://www.github.com/adeiltonsantanaa"><img height="250px width="250px"" src="https://github-readme-stats.vercel.app/api?username=adeiltonsantanaa&show_icons=true&&title_color=ffffff&text_color=14b8a6&icon_color=3382ed&bg_color=000000&hide_border=false" alt="adeiltonsantanaa's GitHub stats" /></a>
+<a href="https://github.com/adeiltonsantanaa" align="left"><img height="250px width="250px" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeiltonsantanaa&langs_count=10&&title_color=ffffff&text_color=14b8a6&icon_color=3382ed&bg_color=000000&hide_border=false&locale=en&custom_title=Top%20%Languages&hide=html,css" alt="Top Languages" /></a>
+</div>
 
-<a>![](https://github-readme-stats.vercel.app/api?username=adeiltonsantanaa&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)</a>
-<br>
-<a>![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeiltonsantanaa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&hide=html,css)</a>
+
 
 
 
